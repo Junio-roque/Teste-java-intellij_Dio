@@ -7,6 +7,7 @@ public class ProgramaTeste {
 
         Gato gato = new Gato();
         System.out.println("Gato");
+        System.out.println("oi");
 
 
 
